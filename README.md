@@ -5,12 +5,14 @@
 **High-Accuracy Real-Time Multiplier Predictions & Provably Fair Pattern Detection**
 
 [![Live Web App](https://img.shields.io/badge/⚡_Live_Web_App-Open_Radar-00d2ff?style=for-the-badge)](https://aviatorguide.xyz/app.html)
+[![VIP Channel](https://img.shields.io/badge/📢_VIP_Channel-@aviatorsignalsglobal-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/aviatorsignalsglobal)
 [![Telegram Bot](https://img.shields.io/badge/🤖_Telegram_Bot-@predictor__predict__bot-blue?style=for-the-badge&logo=telegram)](https://t.me/predictor_predict_bot)
 [![1WIN Bonus](https://img.shields.io/badge/🎁_Claim_Bonus-500%25_Deposit_Match-green?style=for-the-badge)](https://w-one379.com/v3/aviator-fire?p=ao8i)
 
 ---
 
 ### 🌐 Instant Access Links
+- **Public VIP Signals Channel**: [https://t.me/aviatorsignalsglobal](https://t.me/aviatorsignalsglobal)
 - **Official Telegram Predictor Bot**: [@predictor_predict_bot](https://t.me/predictor_predict_bot)
 - **Live Flight Radar Mini-App**: [https://aviatorguide.xyz/app.html](https://aviatorguide.xyz/app.html)
 - **Official 1win Platform (500% Welcome Bonus)**: [Claim 500% Bonus on 1win](https://w-one379.com/v3/aviator-fire?p=ao8i)
