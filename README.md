@@ -11,6 +11,15 @@
 
 ---
 
+### 🌍 Regional Language & Local Payment Guides
+[![India](https://img.shields.io/badge/🇮🇳_India-UPI_₹300_Guide-orange?style=for-the-badge)](README_IN.md)
+[![Brazil](https://img.shields.io/badge/🇧🇷_Brasil-PIX_R$20_Guia-green?style=for-the-badge)](README_BR.md)
+[![LATAM](https://img.shields.io/badge/🇲🇽_LATAM-OXXO_Yape_Español-red?style=for-the-badge)](README_ES.md)
+[![Turkey](https://img.shields.io/badge/🇹🇷_Türkiye-Papara_Türkçe-critical?style=for-the-badge)](README_TR.md)
+[![Nigeria](https://img.shields.io/badge/🇳🇬_Nigeria-OPay_₦1000-success?style=for-the-badge)](README_NG.md)
+
+---
+
 ### 🌐 Instant Access Links
 - **Public VIP Signals Channel**: [https://t.me/aviatorsignalsglobal](https://t.me/aviatorsignalsglobal)
 - **Official Telegram Predictor Bot**: [@predictor_predict_bot](https://t.me/predictor_predict_bot)
