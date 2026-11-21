@@ -63,3 +63,4 @@ By analyzing historical SHA-512 cryptographic Provably Fair round seeds, our sys
 <div align="center">
 <sub>Disclaimer: Educational pattern analysis tool. Crash gaming carries financial risk. Play responsibly within your means.</sub>
 </div>
+

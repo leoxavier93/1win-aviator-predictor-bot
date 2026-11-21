@@ -53,3 +53,4 @@ Sahte APK hile dosyaları indirip telefonunuzun güvenliğini tehlikeye atmayın
 <div align="center">
 <sub>Yasal Uyarı: İstatistiksel analiz aracıdır. Kumar oynamak maddi kayıp riski taşır. Lütfen sorumlu oynayınız.</sub>
 </div>
+

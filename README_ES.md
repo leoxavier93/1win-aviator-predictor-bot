@@ -63,3 +63,4 @@ Olvídate de descargar aplicaciones APK sospechosas que pueden infectar tu telé
 <div align="center">
 <sub>Aviso: Software de análisis estadístico. Juega con responsabilidad y solo con dinero que estés dispuesto a arriesgar.</sub>
 </div>
+

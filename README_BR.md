@@ -63,3 +63,4 @@ Diferente de falsos aplicativos APK vendidos na internet que pedem login e senha
 <div align="center">
 <sub>Aviso: Ferramenta de análise estatística. Jogos de aposta envolvem risco financeiro. Jogue com responsabilidade.</sub>
 </div>
+

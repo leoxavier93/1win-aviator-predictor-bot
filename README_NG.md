@@ -52,3 +52,4 @@ Our algorithm identifies cluster patterns before takeoff, sending alerts for saf
 <div align="center">
 <sub>Disclaimer: Analytical statistical tool. Betting involves financial risk. Please play responsibly.</sub>
 </div>
+
